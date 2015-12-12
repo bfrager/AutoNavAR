@@ -3,9 +3,9 @@ Augmented reality built using the Intel RealSense SDK to demonstrate navigation 
 
 ## Requirements
 
-- Unity Game Engine
 - Intel RealSense™ R200 Camera
 - Intel RealSense™ SDK
+- Unity Game Engine
 
 ## Usage
 
