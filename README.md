@@ -1,5 +1,7 @@
 # AutoNavAR
-Augmented reality built using the Intel RealSense SDK to demonstrate navigation for autonomous agents in dynamically generated environments.
+An augmented reality application built using the Intel RealSense SDK to demonstrate navigation for autonomous agents in dynamically generated environments.
+
+This work is described in detail in [Introduction to Autonomous Navigation for Augmented Reality](https://software.intel.com/en-us/articles/introduction-to-autonomous-navigation-for-augmented-reality).
 
 ## Requirements
 
